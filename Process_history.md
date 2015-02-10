@@ -1,4 +1,4 @@
-Current Plan
+<H1> Current Plan </H1>
 
 Begin project
 Receive wireframes from PM or Design or Sales
@@ -16,9 +16,7 @@ Full regression
 If Ok - send QA completion report to everyone on project (GDoc)
 If not, report to PM regarding barrier(s) to completion
 
-
-
-New Process
+<H1>New Process</H1>
 
 Begin project
 Receive wireframes from PM or Design or Sales
