@@ -1,6 +1,7 @@
 <H1> Current Plan </H1>
 
-Begin project
+<UL>
+<LI>Begin project</LI>
 Receive wireframes from PM or Design or Sales
 Project deadline set - reverse scheduling to meet deadlines
 Build TestLodge test suites (feeds into JIRA)- test plan
