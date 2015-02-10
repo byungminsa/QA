@@ -16,7 +16,7 @@
 <LI>Full regression</LI>
 <LI>If Ok - send QA completion report to everyone on project (GDoc)</LI>
 <LI>If not, report to PM regarding barrier(s) to completion</LI>
-
+</UL>
 <H1>Current Process</H1>
 <UL>
 <LI>Begin project</LI>
