@@ -5,7 +5,7 @@ The purpose of the QA Completion Report is to give the Project Manager, Tech lea
 stakeholders a snapshot view of what has occured during the last QA session.  The necessary information in the report is listed below. A formatted version
  will be in this confluence link https://monsoonco.atlassian.net/wiki/display/MQ/QA+Completion+Report.
 
-<hr>
+<hr align="center">
 
 
 
