@@ -24,3 +24,9 @@ There are three types of testing, bug check only, full regression, and golden pa
   <td>This invovles checking to make sure the latest fixes are in effect</td>
   <td>This is to test everything in the app or website</td>
   <td>This is to check the critical parts of the app/web site</td>
+
+This Read Me will be broken down into two parts, the Techinal and Organizational.   The Technical aspect will include things such as QA job related items while the organizational will refer to objects in relation to how the QA department works with other departments.   
+
+<h3>Technical</h3>
+
+- How to set up your Mac as a developer <a href = "https://github.com/byungminsa/QA/blob/master/Mac_Dev_setup.md"> Set up your Mac </a>
