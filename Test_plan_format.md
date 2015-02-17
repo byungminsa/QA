@@ -17,3 +17,6 @@ For most test plans, they should follow a certain format.  The format is listed 
   <td>pass</td>
 </tr>
 </table>
+
+
+This can be done on Google Docs, which makes it very easy to share. 
