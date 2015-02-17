@@ -22,6 +22,7 @@ Jira will be the project management and bug tracking tool in which most of the p
 7) Make the appropriate changes
 <img src ="https://raw.githubusercontent.com/byungminsa/QA/master/images/Screen%20Shot%202015-02-17%20at%201.45.53%20PM.png">
 <img src="https://raw.githubusercontent.com/byungminsa/QA/master/images/Screen%20Shot%202015-02-17%20at%201.45.59%20PM.png">
+<h2></h2>
 <bold>Pro-tip</bold> Most of the time, the "Project" should never change, however you are going in and out of different projects, the "Project" may change.  
 
 8) Click on "Create" to finish writing the bug.
