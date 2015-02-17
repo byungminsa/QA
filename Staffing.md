@@ -18,4 +18,7 @@ The information needed is percentage and duration.  I.E.  25% for 3 weeks.  The 
 <img src =https://raw.githubusercontent.com/byungminsa/QA/master/images/Screen%20Shot%202015-02-13%20at%201.13.11%20PM.png>
 
 <h3>Follow up </h3>  
-Once it has been submitted, it's always a good idea to follow up with the resource manager. 
+Once it has been submitted, the resource manager and requester may need to look at available resources and company needs before allocating the resource.  The requester may need to go back and forth for a bit before getting the resources needed.
+
+<h3>Final approval</h3>
+Once it has been allocated, the ticket will be closed with the appropriate comments. 
