@@ -10,3 +10,5 @@ Open up the project
 Select the device
 
 Press the play icon
+
+<img src = https://raw.githubusercontent.com/byungminsa/QA/master/images/Screen%20Shot%202015-02-17%20at%2012.49.36%20PM.png>
