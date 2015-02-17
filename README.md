@@ -19,11 +19,14 @@ There are three types of testing, bug check only, full regression, and golden pa
   <td>Bug check only</td>
   <td>Full Regression</td>
   <td>Golden Path</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>This invovles checking to make sure the latest fixes are in effect</td>
   <td>This is to test everything in the app or website</td>
   <td>This is to check the critical parts of the app/web site</td>
+<tr/>
+<br/>
+
 
 This Read Me will be broken down into two parts, the Techinal and Organizational.   The Technical aspect will include things such as QA job related items while the organizational will refer to objects in relation to how the QA department works with other departments.   
 
