@@ -25,6 +25,7 @@ There are three types of testing, bug check only, full regression, and golden pa
   <td>This is to test everything in the app or website</td>
   <td>This is to check the critical parts of the app/web site</td>
 <tr/>
+</table>
 <br/>
 
 
