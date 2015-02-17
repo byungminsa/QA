@@ -28,6 +28,7 @@ There are three types of testing, bug check only, full regression, and golden pa
 </table>
 <br/>
 
+<hr>
 
 This Read Me will be broken down into two parts, the Techinal and Organizational.   The Technical aspect will include things such as QA job related items while the organizational will refer to objects in relation to how the QA department works with other departments.   
 
