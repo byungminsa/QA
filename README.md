@@ -1,4 +1,4 @@
-# QA
+<h1> QA </h1>
 Description of institutional knowledge of the QA team.  
 
 
@@ -34,4 +34,4 @@ This Read Me will be broken down into two parts, the Techinal and Organizational
 
 <h3>Technical</h3>
 
-- How to set up your Mac as a developer <a href = "https://github.com/byungminsa/QA/blob/master/Mac_Dev_setup.md"> Set up your Mac </a>
+- How to set up your Mac as a developer <a href = "https://github.com/monsoonco/mac-dev-setup-js"> Set up your Mac </a>
