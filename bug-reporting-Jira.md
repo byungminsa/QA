@@ -25,3 +25,7 @@ Jira will be the project management and bug tracking tool in which most of the p
 <bold>Pro-tip</bold> Most of the time, the "Project" should never change, however you are going in and out of different projects, the "Project" may change.  
 
 8) Click on "Create" to finish writing the bug.
+
+
+<h3>Strategy</h3>
+If you are planning on writing alot of bugs in a row, you can mark the "Create another" button.  This will save alot of the form information so you won't have to retype alot of things. 
