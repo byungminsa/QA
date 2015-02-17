@@ -6,11 +6,9 @@ Jira will be the project management and bug tracking tool in which most of the p
 2. Click on projects
 <img src ="https://github.com/byungminsa/QA/blob/master/images/Screen%20Shot%202015-02-17%20at%201.44.20%20PM.png">
 <bold>Pro-tip </bold>  There two ways to access the project, via "Projects" or "Agile" on top.  Project is preferred because when you write a bug, the bug is visible in Project view, while it is not visible in Agile view.  That way you can make adjustments or add to it.  
+<h2></h2>
 3)Find the project you are working on
 <img src ="https://github.com/byungminsa/QA/blob/master/images/Screen%20Shot%202015-02-17%20at%201.44.38%20PM.png">
-<br>
-<br>
-
 
 4) Click on "Issues"
 <img src ="https://github.com/byungminsa/QA/blob/master/images/Screen%20Shot%202015-02-17%20at%201.45.26%20PM.png">
